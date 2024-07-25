@@ -13,7 +13,7 @@ Requirements: Rock Sling
 
 Follow the key settings in the video.
 
-
+Run as administrator -> Press F1 to start -> Press F2 to stop and exit
 
 ```
 delay_via_loading := 5500
