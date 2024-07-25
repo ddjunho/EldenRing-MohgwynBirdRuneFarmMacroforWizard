@@ -1,0 +1,1 @@
+# Mohgwyn_Bird_Rune_Farm_Macro_for_Wizard
