@@ -1,8 +1,6 @@
 # EldenRing-MohgwynBirdRuneFarmMacroforWizard
 
 
-
-
 Reference code and materials:
 
 https://youtu.be/Xi1gMK4LBa8
@@ -14,11 +12,6 @@ I recently started my first playthrough as a Death Mage newbie and got burnt out
 Requirements: Rock Sling
 
 Follow the key settings in the video.
-
-
-
-
-
 
 
 
